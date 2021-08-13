@@ -1,4 +1,4 @@
- ### **Hi, I’m Isabelle**
+ ### **Hi, I’m Isabelle!**
  MSc Engineering Physics student currently learning more about machine learning and data science ✨
 
 <!---
