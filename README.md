@@ -1,5 +1,5 @@
  ### **Hi, I’m Isabelle!**
- MSc Engineering Physics student currently learning more about machine learning and data science ✨
+ MSc Engineering Physics student interested in machine learning & artificial intelligence ✨
  
 
 <!---
