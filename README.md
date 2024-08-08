@@ -1,6 +1,4 @@
- ### **Hi, I’m Isabelle!**
- MSc Engineering Physics student interested in machine learning & artificial intelligence ✨
- 
+MSc Engineering Physics
 
 <!---
 ifrode/ifrode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
